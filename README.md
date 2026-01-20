@@ -2,10 +2,10 @@
 
 I'm a **Software Developer & Data Analyst** from **El Salvador 🇸🇻**, passionate about building efficient software solutions and ensuring data integrity in high-pressure environments.
 
-- 🔭 I’m currently working on **Regional Fixed Billing Operations** at **Claro Central America** (via Pentcloud).
-- 🌱 I’m currently improving my skills in **Next.js** and **Advanced PL/SQL**.
-- 💼 I specialize in **ETL Processes**, **Full Stack Development**, and **Database Management**.
-- ⚡ Fun fact: I love automating complex workflows to save hours of manual work.
+- 🐙 I’m currently working on **Regional Fixed Billing Operations** at **Claro Central America** (via Pentcloud).
+- 🚀 I’m currently improving my skills in **Next.js** and **Advanced PL/SQL**.
+- ⚙️ I specialize in **ETL Processes**, **Full Stack Development**, and **Database Management**.
+- 🤖 Fun fact: I love automating complex workflows to save hours of manual work.
 
 ---
 
