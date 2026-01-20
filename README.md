@@ -46,7 +46,7 @@ I'm a **Software Developer & Data Analyst** from **El Salvador 🇸🇻**, passi
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/leonardo-landaverde-397086316/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:stevenalfaro505@gmail.com">
